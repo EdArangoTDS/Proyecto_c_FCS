@@ -19,6 +19,6 @@ Es una aplicacion en lenguaje c que hace el calculo de convertir cantidades de m
 
 
 ### Datos del autor 
-Nombre: Edwar Arango
-Correo: edwar.arango@galileo.edu
-Carnet: 24000841
+	Nombre: Edwar Arango
+	Correo: edwar.arango@galileo.edu
+	Carnet: 24000841
