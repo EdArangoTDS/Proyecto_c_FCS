@@ -6,7 +6,6 @@ Es una aplicacion en lenguaje c que hace el calculo de convertir cantidades de m
 
 
 ### Prerequisitos
-para crear el programa necesitamos:
 	* instalar compilador de C con el comando: "sudo apt install build-essential"
 	* instalar visual studio code con el comando: "sudo apt install code" 
 
