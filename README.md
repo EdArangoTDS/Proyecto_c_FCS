@@ -2,7 +2,7 @@
 
 
 ### Descripcion
-Es una aplicacion en lenguaje c que hace el calculo de convertir cantidades de monedas como por ejemplo de Quetzales a Dolares, De Dolares a Quetzales, de Euros a Dolares.
+Es una aplicacion en lenguaje c que hace el calculo de convertir cantidades de monedas como por ejemplo de Quetzales a Dolares, De Dolares a Quetzales, de Dolares a Euros, Euros a Dolares.
 
 
 ### Prerequisitos
